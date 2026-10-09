@@ -8,7 +8,10 @@ import { installNodeFileFetch } from "./node-file-fetch.mjs";
 
 const MAX_BODY_BYTES = 16 * 1024;
 export const DEFAULT_ORIGINS = Object.freeze([
-  "https://human-design.wonderelian.com",
+  "https://alignwithyour.design",
+  "https://www.alignwithyour.design",
+  "https://www.uskladusasvojimdizajnom.com",
+  "https://uskladusasvojimdizajnom.com",
   "http://127.0.0.1:8789",
   "http://localhost:8789",
   "capacitor://localhost",
